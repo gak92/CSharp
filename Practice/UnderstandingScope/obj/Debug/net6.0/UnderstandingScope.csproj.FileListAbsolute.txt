@@ -1,0 +1,15 @@
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.AssemblyReference.cache
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.AssemblyInfoInputs.cache
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.AssemblyInfo.cs
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+D:\CSharp\Practice\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.exe
+D:\CSharp\Practice\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.deps.json
+D:\CSharp\Practice\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.runtimeconfig.json
+D:\CSharp\Practice\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.dll
+D:\CSharp\Practice\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.pdb
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.dll
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\refint\UnderstandingScope.dll
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.pdb
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.genruntimeconfig.cache
+D:\CSharp\Practice\UnderstandingScope\obj\Debug\net6.0\ref\UnderstandingScope.dll

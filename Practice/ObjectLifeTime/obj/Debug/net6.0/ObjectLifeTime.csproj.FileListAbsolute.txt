@@ -1,0 +1,15 @@
+D:\CSharp\Practice\ObjectLifeTime\bin\Debug\net6.0\ObjectLifeTime.exe
+D:\CSharp\Practice\ObjectLifeTime\bin\Debug\net6.0\ObjectLifeTime.deps.json
+D:\CSharp\Practice\ObjectLifeTime\bin\Debug\net6.0\ObjectLifeTime.runtimeconfig.json
+D:\CSharp\Practice\ObjectLifeTime\bin\Debug\net6.0\ObjectLifeTime.dll
+D:\CSharp\Practice\ObjectLifeTime\bin\Debug\net6.0\ObjectLifeTime.pdb
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.csproj.AssemblyReference.cache
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.AssemblyInfoInputs.cache
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.AssemblyInfo.cs
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.csproj.CoreCompileInputs.cache
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.dll
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\refint\ObjectLifeTime.dll
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.pdb
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ObjectLifeTime.genruntimeconfig.cache
+D:\CSharp\Practice\ObjectLifeTime\obj\Debug\net6.0\ref\ObjectLifeTime.dll

@@ -1,0 +1,15 @@
+D:\CSharp\Practice\DateAndTime\bin\Debug\net6.0\DateAndTime.exe
+D:\CSharp\Practice\DateAndTime\bin\Debug\net6.0\DateAndTime.deps.json
+D:\CSharp\Practice\DateAndTime\bin\Debug\net6.0\DateAndTime.runtimeconfig.json
+D:\CSharp\Practice\DateAndTime\bin\Debug\net6.0\DateAndTime.dll
+D:\CSharp\Practice\DateAndTime\bin\Debug\net6.0\DateAndTime.pdb
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.csproj.AssemblyReference.cache
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.AssemblyInfoInputs.cache
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.AssemblyInfo.cs
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.csproj.CoreCompileInputs.cache
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.dll
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\refint\DateAndTime.dll
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.pdb
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\DateAndTime.genruntimeconfig.cache
+D:\CSharp\Practice\DateAndTime\obj\Debug\net6.0\ref\DateAndTime.dll
